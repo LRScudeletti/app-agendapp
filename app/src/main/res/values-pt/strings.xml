@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SISTEMA -->
+    <string name="app_name">AgendApp</string>
+
+    <!-- LOGIN -->
+    <string name="tela_login">Login</string>
+    <string name="usuario_login_hint">Usuário</string>
+    <string name="senha_login_hint">Senha</string>
+    <string name="manter_conectado">Manter-me conectado</string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="preencha_todos_campos_login">Por favor, preencha todos os campos.</string>
+    <string name="usuario_senha_invalidos">Usuário e (ou) senha inválidos.</string>
+    <string name="usuario_cadastro_sucesso">Usuário cadastrado com sucesso.</string>
+
+    <!-- CADASTRO DE USUÁRIOS -->
+    <string name="tela_cadastro_usuarios">Cadastro de Usuários</string>
+    <string name="nome_cadastro_hint">Nome</string>
+    <string name="usuario_cadastro_hint">Usuário</string>
+    <string name="senha_cadastro_hint">Senha</string>
+    <string name="repetir_senha_cadastro_hint">Repetir senha</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="preencha_todos_campos_usuario">Por favor, preencha todos os campos.</string>
+
+    <!-- PRINCIPAL -->
+    <string name="tela_principal">Bem-vindo ao AgendApp</string>
+    <string name="cadastrar_evento">Cadastrar Eventos</string>
+    <string name="consultar_evento">Pesquisar Eventos</string>
+    <string name="adview_principal">ca-app-pub-8205296065738128/5367659490</string>
+
+    <!-- EVENTOS - CALENDÁRIO -->
+    <string name="tela_eventos_calendario">Calendário</string>
+    <string name="evento_calendario_visualizacao">Alterar Modo de Visualização</string>
+    <string name="botao_sim">Sim</string>
+    <string name="botao_nao">Não</string>
+    <string name="mensagem_excluir_confirmacao">Excluir evento?</string>
+    <string name="mensagem_excluir_sucesso">Evento excluído com sucesso.</string>
+
+    <string name="material_calendar_monday">S</string>
+    <string name="material_calendar_tuesday">T</string>
+    <string name="material_calendar_wednesday">Q</string>
+    <string name="material_calendar_thursday">Q</string>
+    <string name="material_calendar_friday">S</string>
+    <string name="material_calendar_saturday">S</string>
+    <string name="material_calendar_sunday">D</string>
+
+    <array name="material_calendar_months_array">
+        <item>Janeiro</item>
+        <item>Fevereiro</item>
+        <item>Março</item>
+        <item>Abril</item>
+        <item>Maio</item>
+        <item>Junho</item>
+        <item>Julho</item>
+        <item>Agosto</item>
+        <item>Setembro</item>
+        <item>Outubro</item>
+        <item>Novembro</item>
+        <item>Dezembro</item>
+    </array>
+
+    <string name="material_calendar_today_button">Hoje</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Cancelar</string>
+
+    <!-- EVENTOS - CADASTRO -->
+    <string name="tela_eventos_cadastro">Novo Evento</string>
+    <string name="evento_calendario_data_inicio">Data início</string>
+    <string name="evento_calendario_hora_inicio">Hora início</string>
+    <string name="evento_calendario_data_fim">Data fim</string>
+    <string name="evento_calendario_hora_fim">Hora fim</string>
+    <string name="evento_calendario_Titulo">Título</string>
+    <string name="evento_calendario_descricao">Descrição</string>
+    <string name="evento_calendario_local">Local</string>
+    <string name="preencha_todos_campos_evento">Por favor, preencha todos os campos.</string>
+    <string name="evento_cadastro_sucesso">Evento cadastrado com sucesso.</string>
+
+    <!-- EVENTOS - ATUALIZACAO  -->
+    <string name="tela_eventos_atualizacao">Atualizar Evento</string>
+    <string name="botao_atualizar">Atualizar</string>
+    <string name="evento_atualizado_sucesso">Evento atualizado com sucesso.</string>
+
+    <!-- EVENTOS - CONSULTA -->
+    <string name="tela_eventos_pesquisa">Pesquisar Eventos</string>
+    <string name="pesquisar_eventos_hint">Pesquisar Eventos</string>
+
+    <!-- EVENTOS - ADAPTERS -->
+    <string name="adapter_inicio">Início:</string>
+    <string name="adapter_fim">Fim:</string>
+    <string name="adapter_descricao">Descrição:</string>
+    <string name="adapter_local">Local:</string>
+
+    <!-- MENU -->
+    <string name="nav_titulo">AgendApp</string>
+    <string name="navigation_drawer_open">Abrir menu de navegação</string>
+    <string name="navigation_drawer_close">Abrir menu de navegação</string>
+    <string name="nav_header_desc">Cabeçalho de navegação</string>
+
+    <!-- MENU ITENS -->
+    <string name="item_configurações">Configurações</string>
+    <string name="item_compartilhar">Compartilhar</string>
+    <string name="item_avaliar">Avaliar</string>
+    <string name="item_contato">Contato</string>
+    <string name="item_sobre">Sobre</string>
+    <string name="item_sair">Sair</string>
+
+    <!-- CONGIGURAÇÕES -->
+    <string name="tela_configuracoes">Configurações</string>
+    <string name="selecione_tema">Selecione o tema</string>
+    <string name="botao_alterar_configuracao">Alterar</string>
+
+    <string-array name="temas">
+        <item>Tema Azul</item>
+        <item>Tema Preto</item>
+        <item>Tema Rosa</item>
+        <item>Tema Verde</item>
+    </string-array>
+
+    <!-- COMPARTILHAR -->
+    <string name="recomendo_aplicativo">Recomendo esse aplicativo</string>
+    <string name="selecione_opcao_compartilhar">Selecione uma opção</string>
+
+    <!-- CONTATO-->
+    <string name="tela_contato">Contato</string>
+    <string name="modelo_dispositivo">Modelo do dispositivo</string>
+    <string name="versao_android">Versão do android</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="botao_enviar_contato">Enviar</string>
+    <string name="aplicacao_email">Selecione o aplicativo de e-mail</string>
+    <string name="mensagem_sucesso">Mensagem enviada com sucesso, entraremos em contato. Obrigado.</string>
+    <string name="sugestoes_reclamacoes">Suas sugestões, reclamações, elogios e dúvidas são sempre bem-vindas!</string>
+    <string name="preencha_campos_contato">Por favor, preencha todos os campos.</string>
+    <string name="verificar_conexao_contato">Verifique sua conexão com a internet</string>
+
+    <!-- SOBRE -->
+    <string name="tela_sobre">Sobre</string>
+    <string name="logo_descricao">Logo do aplicativo</string>
+    <string name="versão">Versão %1$s</string>
+    <string name="politica_privacidade">Política de privacidade</string>
+</resources>

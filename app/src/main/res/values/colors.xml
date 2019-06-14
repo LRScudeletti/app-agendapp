@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#1E88E5</color>
+
+    <color name="corBranco">#FFFFFF</color>
+    <color name="corPreto">#000000</color>
+    <color name="corVermelho">#ff3333</color>
+
+    <color name="corAzulClaro">#e6f9ff</color>
+    <color name="corVerdeClaro">#e5f5e2</color>
+    <color name="corRosaClaro">#f4e8f3</color>
+    <color name="corPretoClaro">#efeeee</color>
+
+    <color name="corPretoPrimary">#615f5f</color>
+    <color name="corPretoPrimaryDark">#000000</color>
+    <color name="corPretoAccent">#8e8e8e</color>
+
+    <color name="corRosaPrimary">#ec52d5</color>
+    <color name="corRosaPrimaryDark">#e20ba5</color>
+    <color name="corRosaAccent">#f77aeb</color>
+
+    <color name="corVerdePrimary">#4fc637</color>
+    <color name="corVerdePrimaryDark">#289b16</color>
+    <color name="corVerdeAccent">#6de452</color>
+
+</resources>

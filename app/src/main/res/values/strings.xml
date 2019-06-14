@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SISTEMA -->
+    <string name="app_name">AgendApp</string>
+
+    <!-- LOGIN -->
+    <string name="tela_login">Login</string>
+    <string name="usuario_login_hint">User</string>
+    <string name="senha_login_hint">Password</string>
+    <string name="manter_conectado">Keep me logged in</string>
+    <string name="botao_entrar">Log in</string>
+    <string name="preencha_todos_campos_login">Please fill in all the fields.</string>
+    <string name="usuario_senha_invalidos">Invalid user and password.</string>
+    <string name="usuario_cadastro_sucesso">User successfully registered.</string>
+
+    <!-- CADASTRO DE USUÁRIOS -->
+    <string name="tela_cadastro_usuarios">User Registration</string>
+    <string name="nome_cadastro_hint">Name</string>
+    <string name="usuario_cadastro_hint">User</string>
+    <string name="senha_cadastro_hint">Password</string>
+    <string name="repetir_senha_cadastro_hint">Repeat password</string>
+    <string name="botao_cadastrar">Register</string>
+    <string name="preencha_todos_campos_usuario">Please fill in all the fields.</string>
+
+    <!-- PRINCIPAL -->
+    <string name="tela_principal">Welcome to AgendApp</string>
+    <string name="cadastrar_evento">Register Events</string>
+    <string name="consultar_evento">Search Events</string>
+    <string name="adview_principal">ca-app-pub-8205296065738128/5367659490</string>
+
+    <!-- EVENTOS - CALENDÁRIO-->
+    <string name="tela_eventos_calendario">Calendar</string>
+    <string name="evento_calendario_visualizacao">Change view mode</string>
+    <string name="botao_sim">Yes</string>
+    <string name="botao_nao">No</string>
+    <string name="mensagem_excluir_confirmacao">Delete event?</string>
+    <string name="mensagem_excluir_sucesso">Event deleted successfully.</string>
+
+    <string name="material_calendar_monday">M</string>
+    <string name="material_calendar_tuesday">T</string>
+    <string name="material_calendar_wednesday">W</string>
+    <string name="material_calendar_thursday">T</string>
+    <string name="material_calendar_friday">F</string>
+    <string name="material_calendar_saturday">S</string>
+    <string name="material_calendar_sunday">S</string>
+
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+    <string name="material_calendar_today_button">Today</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Cancel</string>
+
+    <!-- EVENTOS - CADASTRO -->
+    <string name="tela_eventos_cadastro">New Event</string>
+    <string name="evento_calendario_data_inicio">Start date</string>
+    <string name="evento_calendario_hora_inicio">Start time</string>
+    <string name="evento_calendario_data_fim">End date</string>
+    <string name="evento_calendario_hora_fim">End time</string>
+    <string name="evento_calendario_Titulo">Title</string>
+    <string name="evento_calendario_descricao">Description</string>
+    <string name="evento_calendario_local">Local</string>
+    <string name="preencha_todos_campos_evento">Please fill in all the fields.</string>
+    <string name="evento_cadastro_sucesso">Event successfully registered.</string>
+
+    <!-- EVENTOS - ATUALIZACAO  -->
+    <string name="tela_eventos_atualizacao">Update Event</string>
+    <string name="botao_atualizar">Update</string>
+    <string name="evento_atualizado_sucesso">Event updated successfully.</string>
+
+    <!-- EVENTOS - CONSULTA -->
+    <string name="tela_eventos_pesquisa">Search Events</string>
+    <string name="pesquisar_eventos_hint">Search Events</string>
+
+    <!-- EVENTOS - ADAPTERS -->
+    <string name="adapter_inicio">Start:</string>
+    <string name="adapter_fim">End:</string>
+    <string name="adapter_descricao">Description:</string>
+    <string name="adapter_local">Local:</string>
+
+    <!-- MENU -->
+    <string name="nav_titulo">AgendApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- MENU ITENS -->
+    <string name="item_configurações">Settings</string>
+    <string name="item_compartilhar">Share</string>
+    <string name="item_avaliar">Rate</string>
+    <string name="item_contato">Contact</string>
+    <string name="item_sobre">About</string>
+    <string name="item_sair">Logout</string>
+
+    <!-- CONGIGURAÇÕES -->
+    <string name="tela_configuracoes">Settings</string>
+    <string name="selecione_tema">Select the theme</string>
+    <string name="botao_alterar_configuracao">Update</string>
+
+    <string-array name="temas">
+        <item>Blue Theme</item>
+        <item>Black Theme</item>
+        <item>Pink Theme</item>
+        <item>Green Theme</item>
+    </string-array>
+
+    <!-- COMPARTILHAR -->
+    <string name="recomendo_aplicativo">I recommend this app</string>
+    <string name="selecione_opcao_compartilhar">Select an option</string>
+
+    <!-- CONTATO -->
+    <string name="tela_contato">Contact</string>
+    <string name="modelo_dispositivo">Device Model</string>
+    <string name="versao_android">Android version</string>
+    <string name="mensagem">Message</string>
+    <string name="botao_enviar_contato">Send</string>
+    <string name="aplicacao_email">Select the email application</string>
+    <string name="mensagem_sucesso">Message sent successfully, we will contact you. Thanks.</string>
+    <string name="sugestoes_reclamacoes">Your suggestions, complaints, compliments and doubts are always welcome!</string>
+    <string name="preencha_campos_contato">Please fill in all the fields.</string>
+    <string name="verificar_conexao_contato">Check your internet connection.</string>
+
+    <!-- SOBRE -->
+    <string name="tela_sobre">About</string>
+    <string name="logo_descricao">Application logo</string>
+    <string name="versão">Version %1$s</string>
+    <string name="politica_privacidade">Privacy policy</string>
+</resources>

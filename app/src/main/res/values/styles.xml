@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.EstiloSplashNavHeader" parent="android:Theme">
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+    <style name="TemaPretoNoActionBar" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/corPretoPrimary</item>
+        <item name="colorPrimaryDark">@color/corPretoPrimaryDark</item>
+        <item name="colorAccent">@color/corPretoAccent</item>
+    </style>
+
+    <style name="TemaRosaNoActionBar" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/corRosaPrimary</item>
+        <item name="colorPrimaryDark">@color/corRosaPrimaryDark</item>
+        <item name="colorAccent">@color/corRosaAccent</item>
+    </style>
+
+    <style name="TemaVerdeNoActionBar" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/corVerdePrimary</item>
+        <item name="colorPrimaryDark">@color/corVerdePrimaryDark</item>
+        <item name="colorAccent">@color/corVerdeAccent</item>
+    </style>
+
+    <style name="TemaPreto" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/corPretoPrimary</item>
+        <item name="colorPrimaryDark">@color/corPretoPrimaryDark</item>
+        <item name="colorAccent">@color/corPretoAccent</item>
+    </style>
+
+    <style name="TemaRosa" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/corRosaPrimary</item>
+        <item name="colorPrimaryDark">@color/corRosaPrimaryDark</item>
+        <item name="colorAccent">@color/corRosaAccent</item>
+    </style>
+
+    <style name="TemaVerde" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/corVerdePrimary</item>
+        <item name="colorPrimaryDark">@color/corVerdePrimaryDark</item>
+        <item name="colorAccent">@color/corVerdeAccent</item>
+    </style>
+
+</resources>
